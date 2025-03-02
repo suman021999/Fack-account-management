@@ -45,9 +45,6 @@ const Specificuser = () => {
 
                 <ListItem className=" hover:bg-blue-gray-500 hover:text-white">Name: {d.name}</ListItem>
 
-
-                <ListItem className="hover:bg-blue-gray-500 hover:text-white">Age: {d.age}</ListItem>
-
                 <ListItem className="hover:bg-blue-gray-500 hover:text-white">Email: {d.email}</ListItem>
 
                 <ListItem className="hover:bg-blue-gray-500 hover:text-white">Password: {d.password}</ListItem>
